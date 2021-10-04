@@ -1,0 +1,11 @@
+[buildPlans.iosevcal]
+family = "Iosevcal"
+spacing = "normal"
+serifs = "sans"
+no-cv-ss = true
+no-ligation = true
+
+[buildPlans.iosevcal.variants.design]
+zero = "unslashed-oval"
+six = "closed-contour"
+seven = "bend-crossbar-serifed"
